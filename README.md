@@ -1,7 +1,8 @@
 # AdiKrishi
 
 Requirements:
-Install Node.JS, React, React-Native, Nodemon and Expo-cli for project
+Install Node.JS, React, React-Native, Nodemon and Expo-cli for project.
+Make sure sdk is installed to load the app in the virtual device or use expo-go app directly. 
 
 After downloading the file run the command :"npm install" in the command prompt. This will install the packeges used in the project.
 
